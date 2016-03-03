@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./salustiiquaeexs00sallgoog_0821.png"; bbox 0 0 4050 5009; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2980 64 3984 494">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2980 64 3984 494">
+     <span class='ocr_line' id='line_1_1' title="bbox 2980 64 3984 494; baseline 0 4515"><span class='ocrx_word' id='word_1_1' title='bbox 2980 64 3984 494; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2552 1167 3181 1553">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2552 1167 3181 1553">
+     <span class='ocr_line' id='line_1_2' title="bbox 2564 1167 3087 1553; baseline -0.004 -147"><span class='ocrx_word' id='word_1_2' title='bbox 2564 1332 2657 1351; x_wconf 56' lang='lat'>&#39;⁴</span> <span class='ocrx_word' id='word_1_3' title='bbox 2679 1340 2713 1431; x_wconf 67' lang='lat' dir='ltr'>&#39;J</span> <span class='ocrx_word' id='word_1_4' title='bbox 2766 1342 2869 1406; x_wconf 61' lang='lat' dir='ltr'>&#39;a‘Y</span> <span class='ocrx_word' id='word_1_5' title='bbox 2915 1167 3087 1553; x_wconf 48' lang='lat'>013]</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2552 1441 3181 1521; baseline -0.01 -19"><span class='ocrx_word' id='word_1_6' title='bbox 2552 1441 3025 1502; x_wconf 44' lang='lat' dir='ltr'><strong>‹fs‘rAMPED</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 3176 1507 3181 1521; x_wconf 53' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
